@@ -1,0 +1,16 @@
+cat <<EOF > .gitignore
+# Large Binaries
+**/kubectl
+**/minikube-linux-amd64
+**/*.exe
+
+# Database & Secrets
+redis-data/
+pgdata/
+**/.env
+**/certs/*.pem
+**/appendonlydir/
+
+# OS Files
+.DS_Store
+EOF
