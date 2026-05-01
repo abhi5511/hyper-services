@@ -1,5 +1,3 @@
----
-
 # 🌌 Hyper-Services: The Core of Hyper-realm Ecosystem
 
 Hyper-Services ek distributed microservices architecture hai jo **Hyper-realm Meta-OS** vision ko power karta hai.[cite: 1] Ye repo ecosystem ke backend infrastructure, security layers, aur universal communication protocols ko handle karta hai.
